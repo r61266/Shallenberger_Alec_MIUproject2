@@ -1,0 +1,57 @@
+/* CSS Document */
+/* Alec Shallenberger */
+/* May 1, 2013 */
+/* Term 1304 */
+/* VFW_Project4 */
+
+body {
+	background-color:#777;
+}
+
+
+h1 { 
+	color: white;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+h2 {
+	color: white;
+	font-style: italic;
+	text-transform: uppercase;
+	text-align: center;
+}
+
+#icon {
+	position: fixed;
+	bottom: 10px;
+	right: -30px;	
+}
+	
+#categories {
+	position: fixed;
+	bottom: 50px;
+	left: 75px;
+}
+
+#browse {
+	position: fixed;
+	top: 0px;
+	right: 0px;
+}
+
+#addbutton {
+	position: fixed;
+	top: 180px;
+	left: -12px;
+}
+
+p1{
+	font-size: 36px;
+}
+
+
+
+
+
